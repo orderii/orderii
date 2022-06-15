@@ -4,6 +4,12 @@ Get what you love from the World! With Orderii app, you can shop the multiple U.
 ## For help getting started with us, visit our
 
 <div align="left">
+    </a>
+      <a href="https://orderii.co" target="_blank">
+    <img
+    src=https://img.shields.io/badge/website-%2344BAE8.svg?&style=for-the-badge&logo=dribbble&logoColor=white
+    alt=website style="margin-bottom: 0px;" />
+  </a>
   <a href="https://www.linkedin.com/company/78819868" target="_blank">
     <img
     src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
@@ -15,7 +21,6 @@ Get what you love from the World! With Orderii app, you can shop the multiple U.
     alt=facebook style="margin-bottom: 0px;" />
   <a href="https://www.instagram.com/orderii.co/" target="_blank">
     <img
-    src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white
+    src=https://img.shields.io/badge/instagram-%23F28032.svg?&style=for-the-badge&logo=instagram&logoColor=white
     alt=instagram style="margin-bottom: 0px;" />
-  </a>
 </div>
